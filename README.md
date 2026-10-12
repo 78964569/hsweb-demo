@@ -42,3 +42,17 @@
 
 
 https://registry.aurora.tencent.com/packages/0/00/all/1785484743/tcs-precheck-core-2.3.5-version.tar.gz?version=v1&issueDate=2026-07-31T16%3A05%3A31%2B08%3A00&uuid=08fa25cf-c48d-4895-abda-06432e59829f&authorization=y7F9SiR33bZjltMdL4Xy6zMfYjUZJa42Axkj2QSixMSLEC3n%2FlLTjFzENIJbuh9quMvEQszYW7Wp6ZdaZe06wjazHydDHteZ7fAf8pndy5LUgkuEktdxzL22hJonur8fDITxCZ9QgUo5U3eoUBgT3JtpPew1MfLX%2B6RKHvSoV3PH8TTNY2xy4MvRutYq7tvJuUtefqJuRDF3i2onQ1vsvYIgoRpjHagnJonHEkJCKXagM%2FQsSU%2F6GFA6rYKSe8IPPzQGnzqxbeGrfiPfrFSLn1MK2spLc9VxRGvx%2F262%2BpDAbjGeUlu92Zmo8QznDNVS01Nvk1DT0bncG2rDPOB%2Bgg%3D%3D&privateKeyHash=WJesrCD%2Fha5pRdC7i080TRzCfaLxcCe5dmoX01KsU4s%3D
+
+
+
+
+
+
+
+https://registry.aurora.tencent.com/packages/0/00/all/1784797587/tcs-precheck-standard-2.3.5-version.tar.gz?version=v1&issueDate=2026-07-23T17%3A10%3A27%2B08%3A00&uuid=90f01de1-2148-42cb-9791-46de88f6adb8&authorization=1ONYBSmSaNOl3opVQlBsv0BZaxYKik%2F4v0y9EJim1SAibtCI2djAk%2FB4ow1k%2BT9k2WRd8j5XFsUGqIWz%2Fa0ylIrsOSn9eGoFuZ63EMhp4dKRCDpBMzW4EK848ZejPPLCtAZaSoQE%2FP74Uxfh1%2BGs%2Fun1MjYzaJedzxLq850oEJwIH1%2FeMlOhIcQ2q%2F2GLKi7VSrDR8KFk19Ni9SZOFqxfoebtW%2F7XNUPhU1nBkmporIcoEdjTwdLCb6rqfIR%2FKli3NI9wW3jc3ybUO1ef27leQn7%2FRhneNtWu%2BB9aFGiic8oEAZQOBWxBvuukq0xzYKqxZg752hrXsjjQXNq2CPkAA%3D%3D&privateKeyHash=WJesrCD%2Fha5pRdC7i080TRzCfaLxcCe5dmoX01KsU4s%3D
+
+
+
+
+
+https://aurora-registry-1258344699.cos.ap-nanjing.myqcloud.com/aurora-file-registry/packages/0/00/all/1784797587/tcs-precheck-standard-2.3.5-version.tar.gz?q-sign-algorithm=sha1&q-ak=AKID88vVSJwMEuNcliT0JSP9ex2xf2B8sQjn&q-sign-time=1791802645%3B1791806245&q-key-time=1791802645%3B1791806245&q-header-list=&q-url-param-list=&q-signature=15e1ffbee824324ccd17990ca63f5eef49696566
